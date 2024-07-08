@@ -1,4 +1,4 @@
-Total__Annual_Energye_Use__kWh,Height,yearbuilt,XCoord,YCoord,facname,Area (m) ,Occupants,apartments,parking,stadium,university,utility,warehouse,Length (m) ,Orientation (degrees north) ,Relative Compactness,Tree_Canopy,Land_Surface_Temp
+Energy_Use_kWh,Height,Year_Built,Longitude,Latitude,Name,Area_m,Occupants,apartments,parking,stadium,university,utility,warehouse,Building_Length_m,Orientation (degrees north) ,Relative Compactness,Tree_Canopy,Land_Surface_Temp
 1370845.251,21.38,1966,-122.3129151,47.64989416,Marine Sciences,5534.23171,297.741666,0,0,0,1,0,0,146,47,0.03,0,25.04828201
 1609484.204,21.16,1969,-122.3122999,47.65025755,Ocean Teach Building,4789.335456,257.6662475,0,0,0,1,0,0,163,143,0.03,21,26.47388119
 2460280.262,24.35,1999,-122.3162752,47.65315781,Fishery Sciences,12105.91122,651.2980236,0,0,0,1,0,0,329,89,0.03,0,27.98793457
